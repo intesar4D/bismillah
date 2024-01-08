@@ -1,0 +1,314 @@
+.banner{
+    text-align: center;
+    background-image: url('resources/Banner\ Image.png');
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+.banner p{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.banner h3{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+}
+.categories-class{
+    text-align: center
+}
+.categories-class h3{
+    color: #F00;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.categories-class p{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.categories-class b{
+    color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.image{
+    text-align: center;
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.Party{
+  background-image: url('resources/Vectorrr.png');  
+  width: 1320px;
+height: 600px;
+flex-shrink: 0;
+
+
+}
+.fun{
+     color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+padding: 30px 30px 20px; 
+letter-spacing: 7.04px
+}
+b{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight:900;
+padding: 10px 30px 10px 30px ;
+letter-spacing: 7.04px
+
+}
+.para{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.button{
+    margin-left: 80px;
+    
+    color: red;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.party-des{
+    padding-left: 30px;
+}
+.party-des-two{
+    padding-left: 30px;
+}
+.join-sec{
+    
+    text-align: center;
+}
+span{
+    color: #F00;
+}
+.button-two{
+   background-color: #F00;
+   color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.offer{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.coming{
+    color: #070211;
+font-family: Merriweather;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+margin-bottom: 20px;
+
+}
+.text{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.text-two{
+    Copy
+color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.bonus-div{
+    display: flex;
+    margin-top: 30px;
+    text-align: center;
+}
+.atishbaji{
+    border-radius: 463px;
+border: 15px solid #F00;
+padding: 20px;
+ 
+}
+.new-year{
+    text-align: right;
+    margin-right: 120px;
+    margin-bottom:30px;
+
+}
+.function{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holidays-sale{
+    color: #F00;
+}
+.discount{
+    font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holiday-section{
+    text-align: center;
+    margin: 0px;
+}
+.gift{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.portfolio{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.des{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.images{
+    display: flex;
+     width: 50px;
+height: 50px;
+flex-shrink: 0;
+
+}
+.i-1:hover{
+    background-color: rgb(80, 226, 43);
+}
+.i-2:hover{
+    background-color: rgb(67, 235, 25);
+}
+.i-3:hover{
+    background-color: rgb(84, 198, 18);
+}
+.images-2{
+    display: flex;
+    margin-top: 410px;
+}
+.i-4:hover{
+   background-color:black;
+}
+.i-5:hover{
+    background-color: black;
+}
+.i-6:hover{
+    background-color: black;
+}
+.subscribe{
+    text-align: center;
+}
+.news{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.description{
+    color: rgba(7, 2, 17, 0.60);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.email-1{
+    width: 300px;
+    height: 50px;
+}
+.btn{
+    height: 55px;
+    width: 150px;
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+}
+.icon{
+    text-align: center;
+}
+.foot{
+    background-color: #FFDE7A;
+}
+.phn-web{
+    text-align: right;
+    
+}
+
+.main-color{
+    background-color: #FFDE7A;
+}
